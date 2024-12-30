@@ -10,12 +10,13 @@ Thanks to that project you can get better understanding of:
 To test it out Docker (or any virtual machines) are recommended.
 
 **How to use it?**
+
 First machine:
 * compile code: gcc -o server chat_server.c
 * turn server on: ./server
 
 Second machine:
 * compile code: gcc -o client chat_client.c
-* turn client on and input proper server ip address: ./client *your server ipv6 address*
+* turn client on and input proper server ip address: ./client *your_server_ipv6_address*
 
 Make sure you have machines in the same ipv6 network!
