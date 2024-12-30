@@ -7,7 +7,7 @@ Thanks to that project you can get better understanding of:
 * signal library
 * linux kernel (from networking perspective)
 
-To test it out Docker (or any virtual machines) are recommended.
+To test it out Docker (or any virtual machine) is recommended.
 
 **How to use it?**
 
