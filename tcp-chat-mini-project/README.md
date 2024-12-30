@@ -6,3 +6,5 @@ Thanks to that project you can get better understanding of:
 * how to use threads
 * signal library
 * linux kernel (from networking perspective)
+
+To test it out Docker (or any virtual machines) are recommended.
